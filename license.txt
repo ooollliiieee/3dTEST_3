@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheese board, straight upload from PhotoCatch
+* source:	https://sketchfab.com/3d-models/cheese-board-straight-upload-from-photocatch-ce8eda2ef00344819c809a03c946ef8f
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheese board, straight upload from PhotoCatch" (https://sketchfab.com/3d-models/cheese-board-straight-upload-from-photocatch-ce8eda2ef00344819c809a03c946ef8f) by alban (https://sketchfab.com/alban) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
